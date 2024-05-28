@@ -1,2 +1,12 @@
-see doc/index.html
+# CRF
 
+## Build
+
+```shell
+./configure
+cargo build
+```
+
+## References
+
+see doc/index.html
